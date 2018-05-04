@@ -68,7 +68,7 @@ In this lab, you'll learn the fundamentals of using Docker data volumes. You'll 
 In this lab, you'll examine how to use GitHub and Docker hub to create a basic continuous delivery workflow. You'll learn how to integrate the two systems together such that when a change is pushed the GitHub repository, an image is automatically built, and pushed to Docker Hub.
 
 
-## Lab 09. [Continuous Integrationn and Continious Delivery(CICD) with Docker, GitHub, and Jenkins](09-cicd-with-docker.md)
+## Lab 09. [Continuous Integrationn and Continuous Delivery(CICD) with Docker, GitHub, and Jenkins](09-cicd-with-docker.md)
 **Difficulty**: Advanced
 
 In this lab, you will build and deploy The Awesome Voting App using a CI pipeline consisting of Docker, GitHub, Jenkins, and Docker Trusted Registry (DTR). The pipeline will be kicked off by a commit to a GitHub repository. The commit will cause Jenkins to run (3) build+push to DTR jobs on a Jenkins slave, and upon successful completion of these jobs, pull new images from DTR and deploy the app on Swarm using docker-compose

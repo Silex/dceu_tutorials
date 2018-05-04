@@ -1,5 +1,5 @@
 
-# Lab 09: Continuous Integration and Continious Delivery(CICD) with Docker, GitHub, and Jenkins
+# Lab 09: Continuous Integration and Continuous Delivery(CICD) with Docker, GitHub, and Jenkins
 
 > **Difficulty**: Advanced
 
